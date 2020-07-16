@@ -4,6 +4,9 @@ dist: xenial
 language: ruby
 install: skip
 
+arch:
+- ppc64le
+
 rvm:
 # - 2.6.5
 - 2.7.0
