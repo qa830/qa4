@@ -1,4 +1,4 @@
-dist: bionic
+dist: focal
 # os: osx
 # osx_image: xcode11.3
 language: ruby
